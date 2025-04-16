@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MapView.qml</file>
+        <file>MapMarker.qml</file>
+        <file>C:/Users/shiva/Downloads/Red_marker.png</file>
+        <file>C:/Users/shiva/Downloads/Green_marker.png</file>
+    </qresource>
+</RCC>
